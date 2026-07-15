@@ -96,8 +96,6 @@ Deliver, when requested:
 - High-resolution hero still.
 - Project-specific usage notes covering assets, hierarchy, materials, lights, cameras, animation, and rerendering.
 
-Leave Blender on a rendered result or rendered viewport when the user is recording the visible process. Distinguish solid/wireframe playback from a true render.
-
 ## Resource routing
 
 - Read `references/prompt-template.md` to generate a complete reusable production prompt.
